@@ -37,6 +37,9 @@ class Transforma(object):
             i = i + 1
         return d
 
+"""
+Estoy haciendo un comentario
+"""
 class DB(object):
     def __init__(self, filename):
         self.filename = filename
