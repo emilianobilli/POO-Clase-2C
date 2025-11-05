@@ -143,6 +143,8 @@ diccionario = {
     "dni": 12821838
 }
 
+print(diccionario)
+
 for clave, valor in diccionario.items():
     print("La clave es:", clave, "y el valor es:", valor)
 
