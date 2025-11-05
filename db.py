@@ -153,3 +153,4 @@ for clave, valor in diccionario.items():
 r = Registro(arnoldswartzennegger="Emiliano", edad=43, sexo="M")
 print(r.arnoldswartzennegger)
 print("\nHola\nMundo\n".replace("\n", ""))
+sdsadfsa
