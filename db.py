@@ -144,6 +144,7 @@ diccionario = {
 }
 
 print(diccionario)
+print("Hola Mundo")
 
 for clave, valor in diccionario.items():
     print("La clave es:", clave, "y el valor es:", valor)
